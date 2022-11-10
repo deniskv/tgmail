@@ -1,2 +1,2 @@
 # tgmail
-Use yor telegram as mail client. 
+Use your telegram as mail client. 
